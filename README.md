@@ -7,7 +7,7 @@
 **Every sound leaves a mark.**
 
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange?logo=swift)](https://swift.org)
-[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20iPadOS%2016%2B-blue?logo=apple)](https://developer.apple.com)
+[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20iPadOS-blue?logo=apple)](https://developer.apple.com)
 [![Swift Student Challenge](https://img.shields.io/badge/Apple-Swift%20Student%20Challenge%202026-black?logo=apple)](https://developer.apple.com/swift-student-challenge/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
@@ -58,9 +58,9 @@ A minimal, atmospheric first-launch flow that introduces the Imprint concept wit
 
 ### Requirements
 
-- iPhone or iPad running **iOS / iPadOS 16** or later
-- Microphone permission (prompted on first launch)
-- Open `Echo-Imprint.swiftpm` in **Xcode 15+** or **Swift Playgrounds 4+**
+- **macOS** with Xcode 16+ — open `Echo-Imprint.swiftpm` directly in Xcode
+- **iPadOS** with Swift Playgrounds 4+ — open the `.swiftpm` package on iPad
+- Microphone permission required (prompted on first launch)
 
 ---
 
@@ -68,7 +68,7 @@ A minimal, atmospheric first-launch flow that introduces the Imprint concept wit
 
 On first launch, the system will request microphone access. Tap **Allow** — this is the core permission the app needs. Without it, the Imprint cannot respond to sound.
 
-> 💡 Accidentally denied? Go to **Settings → Privacy & Security → Microphone** and re-enable Echo Imprint.
+> 💡 Accidentally denied? On Mac: **System Settings → Privacy & Security → Microphone**. On iPad: **Settings → Privacy & Security → Microphone**.
 
 ---
 
@@ -140,7 +140,7 @@ With VoiceOver enabled:
 - The Imprint's state is communicated in language — energy level, shape quality, intensity — not just visuals
 - All onboarding copy was written audio-first
 
-> 💡 Enable VoiceOver via **Settings → Accessibility → VoiceOver**, or triple-click the side button to toggle.
+> 💡 On Mac: **System Settings → Accessibility → VoiceOver**. On iPad: **Settings → Accessibility → VoiceOver**, or triple-click the side button.
 
 ---
 
@@ -148,7 +148,7 @@ With VoiceOver enabled:
 
 | | |
 |---|---|
-| **Platform** | iOS / iPadOS 16+ |
+| **Platform** | macOS (Xcode) · iPadOS (Swift Playgrounds) |
 | **Language** | Swift 5.9 |
 | **Frameworks** | SwiftUI, AVFoundation, Accelerate |
 | **Audio Analysis** | Real-time FFT via Accelerate framework |
@@ -197,7 +197,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 **Sylvian**  
-📧 [tristan112767@gmail.com](mailto:tristan112767@gmail.com)  
+📧 [tristanisolde08@gmail.com](mailto:tristanisolde08@gmail.com)  
 🐙 [@tristan1127](https://github.com/tristan1127)
 
 ---
