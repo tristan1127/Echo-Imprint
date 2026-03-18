@@ -114,7 +114,7 @@ First Swift project. Built in about six days. Made with curiosity, care, and a l
 
 ---
 
-## 🇭🇰 使用指南（简体中文）
+## 🇨🇳 使用指南（简体中文）
 
 ### 系统要求
 
