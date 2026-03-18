@@ -130,7 +130,6 @@ First Swift project. Built in about six days. Made with curiosity, care, and a l
 
 > 💡 若不慎拒绝，可前往「设置 → 隐私与安全性 → 麦克风」重新开启。
 
-![引导界面](screenshot_onboarding.png)
 *↑ 首次启动时的引导界面*
 
 ---
@@ -174,8 +173,6 @@ First Swift project. Built in about six days. Made with curiosity, care, and a l
 
 > 💡 生物体的身体本身就是均衡器——你正在通过触摸来重塑它的感知方式。
 
-![主界面 EQ 塑形](screenshot_main.png)
-*↑ 直接在 Imprint 上拖动即可实时塑形*
 
 ---
 
@@ -183,8 +180,6 @@ First Swift project. Built in about six days. Made with curiosity, care, and a l
 
 录制完成后，点击屏幕底部中央的红色**停止**按钮结束本次录音，App 将自动提示你为当前标本命名并保存入库。
 
-![标本库](screenshot_library.png)
-*↑ 标本库中保存的录音，每条记录含缩略图、名称与时间*
 
 ---
 
@@ -231,8 +226,6 @@ Echo Imprint 完整支持 VoiceOver。开启后：
 
 > 💡 若不慎拒絕，可前往「設定 → 隱私權與安全性 → 麥克風」重新開啟。
 
-![引導介面](screenshot_onboarding.png)
-*↑ 首次啟動時的引導介面*
 
 ---
 
@@ -275,17 +268,12 @@ Echo Imprint 完整支持 VoiceOver。开启后：
 
 > 💡 生物體的身體本身就是等化器——你正在透過觸摸來重塑它的感知方式。
 
-![主畫面 EQ 塑形](screenshot_main.png)
-*↑ 直接在 Imprint 上拖曳即可即時塑形*
 
 ---
 
 ### 第五步：停止錄製並儲存標本
 
 錄製完成後，點選畫面底部中央的紅色**停止**按鈕結束本次錄音，App 將自動提示你為目前標本命名並儲存入庫。
-
-![標本庫](screenshot_library.png)
-*↑ 標本庫中儲存的錄音，每筆記錄含縮圖、名稱與時間*
 
 ---
 
@@ -332,8 +320,6 @@ When you first open Echo Imprint, the system will request microphone access. Tap
 
 > 💡 If you accidentally deny access, go to **Settings → Privacy & Security → Microphone** to re-enable it.
 
-![Onboarding screen](screenshot_onboarding.png)
-*↑ The onboarding screen on first launch*
 
 ---
 
@@ -376,8 +362,6 @@ Drag your finger directly across the organism's body to reshape its frequency se
 
 > 💡 The organism's body *is* the equaliser. You are literally reshaping how it listens.
 
-![Main screen EQ sculpting](screenshot_main.png)
-*↑ Drag directly on the Imprint to sculpt its form in real time*
 
 ---
 
@@ -385,8 +369,6 @@ Drag your finger directly across the organism's body to reshape its frequency se
 
 When you are done recording, tap the red **Stop** button at the bottom centre of the screen. The app will prompt you to name the specimen before saving it to the Library.
 
-![Specimen library](screenshot_library.png)
-*↑ Saved specimens with thumbnail, name, and timestamp — tap ▶ to replay*
 
 ---
 
@@ -433,8 +415,6 @@ Au premier lancement, le système vous demande l'accès au microphone. Appuyez s
 
 > 💡 Si vous avez refusé par accident, allez dans **Réglages → Confidentialité et sécurité → Microphone** pour réactiver l'accès.
 
-![Écran d'introduction](screenshot_onboarding.png)
-*↑ L'écran d'introduction au premier lancement*
 
 ---
 
@@ -477,8 +457,6 @@ Faites glisser votre doigt directement sur le corps de l'organisme pour remodele
 
 > 💡 Le corps de l'organisme *est* l'égaliseur. Vous remodèlez littéralement sa façon d'écouter.
 
-![Écran principal EQ](screenshot_main.png)
-*↑ Glissez directement sur l'Imprint pour sculpter sa forme en temps réel*
 
 ---
 
@@ -486,8 +464,7 @@ Faites glisser votre doigt directement sur le corps de l'organisme pour remodele
 
 Lorsque vous avez terminé l'enregistrement, appuyez sur le bouton rouge **Stop** en bas au centre de l'écran. L'application vous demandera de nommer le spécimen avant de le sauvegarder dans la bibliothèque.
 
-![Bibliothèque de spécimens](screenshot_library.png)
-*↑ Spécimens sauvegardés avec miniature, nom et horodatage — appuyez sur ▶ pour rejouer*
+
 
 ---
 
